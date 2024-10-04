@@ -48,6 +48,10 @@
 5. Keep guessing until you find the correct number or reach the maximum attempts.
 6. Start a new game by clicking the "New Game" button.
 
+## Screenshots
+
+![1728081985113](image/README/1728081985113.png) ![1728082026063](image/README/1728082026063.png) ![1728082172688](image/README/1728082172688.png) ![1728082213105](image/README/1728082213105.png)
+
 ## Contributing
 
    Contributions are welcome! Please feel free to submit a Pull Request.

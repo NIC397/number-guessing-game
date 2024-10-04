@@ -76,8 +76,8 @@ class NumberGuessingGame:
         self.log_text.config(state=tk.DISABLED)
 
         # New game button
-        self.new_game_button = ttk.Button(main_frame, text="New Game", command=self.start_new_game)
-        self.new_game_button.pack(pady=5)
+        self.new_game_button = ttk.Button(main_frame, text="New Game", command=self.start_new_game, width=20)
+        self.new_game_button.pack(pady=3)
 
     def start_new_game(self):
         """Prompt the user for the number of digits and start a new game."""
