@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-   A simple yet engaging Number Guessing Game with a graphical user interface
+   A simple yet engaging Number Guessing Game with a graphical user interface built using Python and Tkinter.
 
 ## Features
 
